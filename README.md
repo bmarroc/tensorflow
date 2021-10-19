@@ -10,3 +10,22 @@ This repository contains Jupyter notebooks implementing AI, Machine Learning and
 - Model
 
 The notebooks use Tensorflow 2.1. 
+
+### Table of contents
+
+* [1 - Linear Regression]()
+* [2 - Logistic Regression]()
+* [3 - Polynomial Regression]()
+* [4 - k-Nearest Neighbors]()
+* [5 - Support Vector Machines]()
+* [6 - Linear Discriminant Analysis]()
+* [7 - Radial Basis Functions]()
+* [8 - Neural Networks]()
+* [9 - Regularization]()
+* [10 - Dropout]()
+* [11 - Bagging]()
+* [12 - Boosting]()
+* [13 - Recommender Systems]()
+* [14 - K-Means]()
+* [15 - Autoencoders]()
+
