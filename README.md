@@ -16,7 +16,7 @@ The notebooks use Tensorflow 2.1.
 * [1 - Linear Regression](https://github.com/bmarroc/tensorflow/blob/7f2622045442ce9cb04d7ffa51b0d36a399fc60b/1/tf_1.ipynb)
 * [2 - Logistic Regression](https://github.com/bmarroc/tensorflow/blob/4be9cbbc401d649ab351e794533c66b21b4f3075/2/tf_2.ipynb)
 * [3 - Polynomial Regression](https://github.com/bmarroc/tensorflow/blob/c466d6957cf69c2e8648b07f79509ba7e7da9e23/3/tf_3.ipynb)
-* [4 - k-Nearest Neighbors]()
+* [4 - k-Nearest Neighbors](https://github.com/bmarroc/tensorflow/blob/230ae84ab0e8fc5ef4d0e73ff3478848f1f49e21/4/tf_4.ipynb)
 * [5 - Support Vector Machines]()
 * [6 - Linear Discriminant Analysis]()
 * [7 - Radial Basis Functions]()
