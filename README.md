@@ -13,7 +13,7 @@ The notebooks use Tensorflow 2.1.
 
 ### Table of contents
 
-* [1 - Linear Regression]()
+* [1 - Linear Regression](https://github.com/bmarroc/tensorflow/blob/7f2622045442ce9cb04d7ffa51b0d36a399fc60b/1/tf_1.ipynb)
 * [2 - Logistic Regression]()
 * [3 - Polynomial Regression]()
 * [4 - k-Nearest Neighbors]()
