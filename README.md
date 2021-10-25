@@ -20,7 +20,7 @@ The notebooks use Tensorflow 2.1.
 * [5 - Support Vector Machines](https://github.com/bmarroc/tensorflow/blob/6d95ad88b5d5fd52b818411b2e2d865eafd1cc2b/5/tf_5.ipynb)
 * [6 - Linear Discriminant Analysis](https://github.com/bmarroc/tensorflow/blob/d8e25d4852673b6587af2fb8697bf6ba07fee28e/6/tf_6.ipynb)
 * [7 - Radial Basis Functions](https://github.com/bmarroc/tensorflow/blob/c7a9cf658eb5fa73a4ad242cb1c449ba2bf02aee/7/tf_7.ipynb)
-* [8 - Neural Networks]()
+* [8 - Neural Networks](https://github.com/bmarroc/tensorflow/blob/23380835c840a9979133fe070f769c13f87e2ce6/8/tf_8.ipynb)
 * [9 - Regularization]()
 * [10 - Dropout]()
 * [11 - Bagging]()
