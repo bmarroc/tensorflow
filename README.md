@@ -25,7 +25,7 @@ The notebooks use Tensorflow 2.1.
 * [10 - Dropout](https://github.com/bmarroc/tensorflow/blob/8f7b0bc3b11e58f2dddfc7812d43020e32a93523/10/tf_10.ipynb)
 * [11 - Bagging]()
 * [12 - Boosting]()
-* [13 - Recommender Systems]()
+* [13 - Recommender Systems](https://github.com/bmarroc/tensorflow/blob/051fc241b81396adaa181e988e00924a1fa0a718/13/tf_13.ipynb)
 * [14 - K-Means]()
 * [15 - Autoencoders]()
 
