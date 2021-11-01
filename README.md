@@ -27,5 +27,5 @@ The notebooks use Tensorflow 2.1.
 * [12 - Boosting]()
 * [13 - Recommender Systems](https://github.com/bmarroc/tensorflow/blob/051fc241b81396adaa181e988e00924a1fa0a718/13/tf_13.ipynb)
 * [14 - k-Means](https://github.com/bmarroc/tensorflow/blob/0d81dd1543e154514fc13a7875c86f23c4770db1/14/tf_14.ipynb)
-* [15 - Principal Component Analysis]()
+* [15 - Principal Component Analysis](https://github.com/bmarroc/tensorflow/blob/2df8e10e043bc6772c61af4f1959a46b0690a9e5/15/tf_15.ipynb)
 
