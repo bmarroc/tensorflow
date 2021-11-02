@@ -14,10 +14,10 @@ The notebooks use Tensorflow 2.1.
 ### Table of contents
 
 * [1 - Linear Regression](https://github.com/bmarroc/tensorflow/blob/93cf85ace4aabeab560a2c8269890e15153620a9/1/tf_1.ipynb)
-* [2 - Logistic Regression]()
-* [3 - Polynomial Regression]()
-* [4 - k-Nearest Neighbors]()
-* [5 - Support Vector Machines]()
+* [2 - Logistic Regression](https://github.com/bmarroc/tensorflow/blob/6362f6e2cf740b4efb6e960d55d4e2cc89832a88/2/tf_2.ipynb)
+* [3 - Polynomial Regression](https://github.com/bmarroc/tensorflow/blob/6362f6e2cf740b4efb6e960d55d4e2cc89832a88/3/tf_3.ipynb)
+* [4 - k-Nearest Neighbors](https://github.com/bmarroc/tensorflow/blob/6362f6e2cf740b4efb6e960d55d4e2cc89832a88/4/tf_4.ipynb)
+* [5 - Support Vector Machines](https://github.com/bmarroc/tensorflow/blob/6362f6e2cf740b4efb6e960d55d4e2cc89832a88/5/tf_5.ipynb)
 * [6 - Linear Discriminant Analysis](https://github.com/bmarroc/tensorflow/blob/9b24642cf1e1ca5986becb9712bf8d9f8022ab27/6/tf_6.ipynb)
 * [7 - Radial Basis Functions](https://github.com/bmarroc/tensorflow/blob/5f16122e7f6e3d1b7cdc52c42b2572f6fc214e45/7/tf_7.ipynb)
 * [8 - Neural Networks](https://github.com/bmarroc/tensorflow/blob/7296b7322705d95e4e47020eb0bcdeccb6943ec2/8/tf_8.ipynb)
